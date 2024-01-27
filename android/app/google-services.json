@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594937959507",
+    "project_id": "surplus-share",
+    "storage_bucket": "surplus-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594937959507:android:992ec8000d982a89bfe2a6",
+        "android_client_info": {
+          "package_name": "com.example.surplus_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AQjHei-KZr764sqam5VebkG990iKIX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
